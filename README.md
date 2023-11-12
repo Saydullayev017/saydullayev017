@@ -6,7 +6,6 @@
 
 ## <i>About me</i>
 
-<hr>
 Hi there! My name is Javlonbek and i'm a frontend developer from Uzbekistan. i'm student of [@MarSU](https://marsu.ru/) in Russia.  
 
 <summary><h4><b><i>📚 My stack</i></b></h4></summary>
@@ -32,9 +31,6 @@ Hi there! My name is Javlonbek and i'm a frontend developer from Uzbekistan. i'm
 
 
 ## <i>Contact</i>
-
-<hr>
-
 
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/Saydullayev_017)
 [![Instagram](https://img.shields.io/badge/-Instagram-2CA5E0?style=flat&logo=instagram&logoColor=red)](https://instagram.com/saydullayev_017?igshid=OGQ5ZDc2ODk2ZA==)
