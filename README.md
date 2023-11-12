@@ -6,7 +6,7 @@
 
 ## <i>About me</i>
 
-Hi there! My name is Javlonbek and i'm a frontend developer from Uzbekistan. i'm student of [@MarSU](https://marsu.ru/) in Russia.  
+Hi there! My name is Javlonbek and i'm a frontend developer from Uzbekistan. Graduate of Mari State University in Russia.  
 
 <summary><h4><b><i>📚 My stack</i></b></h4></summary>
 <p>
