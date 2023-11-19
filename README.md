@@ -19,13 +19,13 @@ Hi there! My name is Javlonbek and i'm a frontend developer from Uzbekistan. Gra
     <h3>Frameworks / Tools</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,sass,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,sass,tailwind,vscode" />
   </a>
 </p><hr>
     <h3>Software</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,bash,linux" />
+    <img src="https://skillicons.dev/icons?i=git,bash,linux" />
   </a>
 </p>
 
