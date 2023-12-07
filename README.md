@@ -6,7 +6,7 @@
 
 ### <i>About me</i>
 
->Hey there! I’m Saydullayev Javlonbek, 21 years old, currently living in Russia.Student of Mari State University.
+>Hey there! I’m Saydullayev Javlonbek, 21 years old, currently living in Russia. Student of Mari State University.
 
 <i>📚 My stack</i>
 
@@ -16,7 +16,6 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,react,ts" />
   </a>
 </p>
-
 
 ##### Frameworks / Tools
 <p align="center">
