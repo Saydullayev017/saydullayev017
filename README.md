@@ -4,25 +4,27 @@
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
-## <i>About me</i>
+### <i>About me</i>
 
-Hi there! My name is Javlonbek and i'm a frontend developer from Uzbekistan. Graduate of Mari State University in Russia.  
+>Hey there! I’m Saydullayev Javlonbek, 21 years old, currently living in Russia.Student of Mari State University.
 
-<summary><h4><b><i>📚 My stack</i></b></h4></summary>
-<p>
-  <h3>Fronted</h3>
+<i>📚 My stack</i>
+
+#### Frontend
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,ts" />
   </a>
-</p><hr>
-    <h3>Frameworks / Tools</h3>
+</p>
+
+
+##### Frameworks / Tools
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=bootstrap,sass,tailwind,vscode" />
   </a>
-</p><hr>
-    <h3>Software</h3>
+</p>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,bash,linux" />
@@ -30,7 +32,10 @@ Hi there! My name is Javlonbek and i'm a frontend developer from Uzbekistan. Gra
 </p>
 
 
-## <i>Contact</i>
+##### <i>Contac Me</i>
 
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/Saydullayev_017)
-[![Instagram](https://img.shields.io/badge/-Instagram-2CA5E0?style=flat&logo=instagram&logoColor=red)](https://instagram.com/saydullayev_017?igshid=OGQ5ZDc2ODk2ZA==)
+- [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/Saydullayev_017)
+
+- [![Instagram](https://img.shields.io/badge/-Instagram-2CA5E0?style=flat&logo=instagram&logoColor=red)](https://instagram.com/saydullayev_017?igshid=OGQ5ZDc2ODk2ZA==)
+
+- [![Gmail](https://img.shields.io/badge/-Gmail-2CA5E0?style=flat&logo=gmail&logoColor=red)](https://saydullayevjavlonbek2002@gmail.com)
