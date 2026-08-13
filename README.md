@@ -1,16 +1,14 @@
-## Hi there 👋
+## Experience
+- Lecturer in Technical Disciplines and Information Systems
+    - Branch Campus of NUST MISIS
 
-<!--
-**Saydullayev017/Saydullayev017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Author of:
+    - **JLearn** — interactive educational platform with a competency-based approach. [jlearn.space](https://jlearn.space)
+    - **DeadLine** — open source Obsidian plugin for productivity. 300+ users.
 
-Here are some ideas to get you started:
+## Education
+- **Bachelor's Degree** — Information systems and technologies (2020–2024)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Master's Degree** — Mathematical support and administration of information systems (2024–2026)
+
+- Full-Stack Developer of Business-Oriented Digital Applications — Professional Retraining Diploma (2022–2023)
