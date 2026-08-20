@@ -2,9 +2,7 @@
 - Lecturer in Technical Disciplines and Information Systems
     - Branch Campus of NUST MISIS
 
-- Author of:
-    - **JLearn** — interactive educational platform with a competency-based approach. [jlearn.space](https://jlearn.space)
-    - **DeadLine** — open source Obsidian plugin for productivity. 300+ users.
+- Author of **JLearn** — interactive educational platform with a competency-based approach. [jlearn.space](https://jlearn.space)
 
 ## Education
 - **Bachelor's Degree** — Information systems and technologies (2020–2024)
