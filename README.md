@@ -9,4 +9,4 @@
 
 - **Master's Degree** — Mathematical support and administration of information systems (2024–2026)
 
-- Full-Stack Developer of Business-Oriented Digital Applications — Professional Retraining Diploma (2022–2023)
+- **Professional Retraining Diploma** — Full-Stack Developer of Business-Oriented Digital Applications (2022–2023)
